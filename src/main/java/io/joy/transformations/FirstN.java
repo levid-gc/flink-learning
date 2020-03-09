@@ -9,7 +9,7 @@ import org.apache.flink.api.java.ExecutionEnvironment;
 import org.apache.flink.api.java.tuple.Tuple2;
 
 /**
- * @see https://ci.apache.org/projects/flink/flink-docs-release-1.10/dev/batch/dataset_transformations.html#first-n
+ * @see <a href="https://ci.apache.org/projects/flink/flink-docs-release-1.10/dev/batch/dataset_transformations.html#first-n">First-n</a>
  * @author Owen
  */
 public class FirstN {
