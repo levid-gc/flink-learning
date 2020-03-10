@@ -1,4 +1,4 @@
-package io.joy.model;
+package io.joy.dataset.model;
 
 /**
  * @author Owen

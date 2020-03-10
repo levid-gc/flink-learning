@@ -1,9 +1,9 @@
-package io.joy.sources;
+package io.joy.dataset.sources;
 
 import org.apache.flink.api.java.ExecutionEnvironment;
 import org.apache.flink.api.java.io.CsvReader;
 
-import io.joy.model.Employee;
+import io.joy.dataset.model.Employee;
 
 /**
  * @see <a href="https://ci.apache.org/projects/flink/flink-docs-release-1.10/dev/batch/#data-sources">Data Sources</a>

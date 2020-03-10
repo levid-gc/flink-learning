@@ -1,4 +1,4 @@
-package io.joy.transformations;
+package io.joy.dataset.transformations;
 
 import java.util.ArrayList;
 import java.util.List;

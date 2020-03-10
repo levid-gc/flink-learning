@@ -1,4 +1,4 @@
-package io.joy.sources;
+package io.joy.dataset.sources;
 
 import org.apache.flink.api.java.ExecutionEnvironment;
 
